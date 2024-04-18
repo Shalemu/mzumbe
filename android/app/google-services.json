@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655132771707",
+    "project_id": "malampaka-app",
+    "storage_bucket": "malampaka-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655132771707:android:8122c2fb03ba557ffb69de",
+        "android_client_info": {
+          "package_name": "com.example.malampaka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwdSgXQ9MK9vFGLQRL1yU_u-iNOtqJ6J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
